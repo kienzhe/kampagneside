@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+
+  .wrapper{
+    width: 100%;
+    height: auto;
+  }
+
+  .header{
+    width: 100%;
+    float: left;
+  }
+
+  .header img{
+    display: block;
+	height: auto;
+    width: 300px;
+    float: left;
+    margin-left: 2%;
+  }
+
+ .header h3{
+      float: left;
+      margin-top: 4%;
+      margin-left: 6%;
+      color: #2352b8;
+  }
+
+  .content{
+    width: 100%;
+    float: left;
+  }
+
+  .textbox{
+      float: left;
+      width: 40%;
+      margin-left: 13%;
+      margin-top: 2%;
+  }
+
+  .cardapp{
+      float: left;
+      width: 40%;
+      margin-left: 7%;
+      margin-top: 2%;
+  }
+
+  .cardapp img{
+	height: auto;
+    width: 300px;
+    float: left;
+  }
